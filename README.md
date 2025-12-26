@@ -15,6 +15,7 @@ DenseNet121               83.12%
 Automated food processing and quality control
 Dietary analysis
 Cultural preservation of underrepresented cuisines
+# You can download ipynb file and access the whole pipeline
 
 
 
